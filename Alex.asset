@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ebd6fe22dd9ff241918603aba7bdaac, type: 3}
+  m_Name: Alex
+  m_EditorClassIdentifier: 
+  npcName: Alex
+  npcSprite: {fileID: 21300000, guid: dcbd10a257e971946b3bf131161072de, type: 3}
+  profession: Game Design
+  anschreibText: "<b>Motivation/Pr\xE4ferenzen:</b>                      Ich m\xF6chte
+    einfach ein guter Game Designer werden. Ich geb zu, ich kann noch nicht so viel,
+    aber ich bin bereit, mich richtig reinzuknien!                                         
+    <b> Erfahrungen/Skills:</b>                                  \u2022 Videoreihe
+    \xFCber das Umgebungsdesign bei The Witcher gesehen. "
+  npcStat: 1
+  IsRecruited: 0
+  portrait: {fileID: -770554065, guid: 4419bfa3ac848d34bbca84a36fc78a19, type: 3}
+  npcDialogueIndex: 1
+  attack: 2
+  weakAttack: 1
+  cardImage: {fileID: 0}
+  "ersch\xF6pfung": 2
+  draw2: 0
+  plusOneAttack: 0
+  "ersch\xF6pfungRegen": 0
+  minus3NextTurn: 0

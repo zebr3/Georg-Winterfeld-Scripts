@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ebd6fe22dd9ff241918603aba7bdaac, type: 3}
+  m_Name: Carlo
+  m_EditorClassIdentifier: 
+  npcName: Carlo
+  npcSprite: {fileID: 21300000, guid: b3014d8f86d1e884395f79aa50211891, type: 3}
+  profession: Sound
+  anschreibText: "<b>Motivation/Pr\xE4ferenzen:</b>                    Ich w\xFCrde
+    gerne das Programmieren machen. Naja, eigentlich interessiere ich mich f\xFCr
+    Sound, aber da hab ich leider keine Vorerfahrungen.                                        
+    <b> Erfahrungen/Skills:</b>                                         \u2022 Eventplanung
+    und Aufgabenverteilung beim j\xE4hrlichen Musikfestival meiner Heimatstadt 2020
+    bis 2022, \u201CCastrop-Rauxel On Air\u201D  "
+  npcStat: 1
+  IsRecruited: 0
+  portrait: {fileID: 186149012, guid: 4419bfa3ac848d34bbca84a36fc78a19, type: 3}
+  npcDialogueIndex: 3
+  attack: 3
+  weakAttack: 1
+  cardImage: {fileID: 0}
+  "ersch\xF6pfung": 3
+  draw2: 0
+  plusOneAttack: 0
+  "ersch\xF6pfungRegen": 0
+  minus3NextTurn: 0
